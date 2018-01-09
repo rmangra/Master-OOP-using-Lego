@@ -11,7 +11,7 @@ namespace CarProductionLine
             var saloonCar2 = new SaloonCar(3, "Nissan");
             var saloonCar3 = new SaloonCar(4, "Ford", "purple");
 
-            Console.WriteLine("car1 is a: " + car1.color + " " + car1.manufacturer);
+            Console.WriteLine("car1 is a " + car1.color + " " + car1.manufacturer);
             Console.WriteLine("saloonCar1 has " + saloonCar1.numberOfSeats + " Seats");
             Console.WriteLine("saloonCar2 has " + saloonCar2.numberOfSeats + " Seats" + " and is a " + saloonCar2.manufacturer);
             Console.WriteLine("saloonCar3 has " + saloonCar3.numberOfSeats + " Seats" + " and is a " + saloonCar3.color + " " + saloonCar3.manufacturer);
@@ -19,6 +19,7 @@ namespace CarProductionLine
         }
     }
 
+    // Car class demonstrates polymorphism. Its constructors can accept various numbers of parameters.
     public class Car
     {
         public Car() { }
@@ -33,10 +34,12 @@ namespace CarProductionLine
             this.color = _color;
         }
 
-            public string color { get; set; }
-            public string manufacturer { get; set; }
+        public string color { get; set; }
+        public string manufacturer { get; set; }
     }
 
+    // SaloonCar class inherits from Car class.
+    // SaloonCar class demonstrates polymorphism. Its contructors can accept various number of parameters.
     public class SaloonCar : Car
     {
         public SaloonCar(int _numberOfSeats)

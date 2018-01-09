@@ -5,3 +5,10 @@ c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarP
 c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.csproj.CoreCompileInputs.cache
 c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.exe
 c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.pdb
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\bin\Debug\CarProductionLine.exe.config
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\bin\Debug\CarProductionLine.exe
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\bin\Debug\CarProductionLine.pdb
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.csprojResolveAssemblyReference.cache
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.exe
+C:\Users\Richard\source\repos\Master-OOP-using-Lego\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.pdb
