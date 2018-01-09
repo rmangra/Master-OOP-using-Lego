@@ -38,7 +38,7 @@ namespace CarProductionLine
         public string manufacturer { get; set; }
     }
 
-    // SaloonCar class inherits from Car class.
+    // SaloonCar class demonstrates inheritance.  It inherits from Car class.
     // SaloonCar class demonstrates polymorphism. Its contructors can accept various number of parameters.
     public class SaloonCar : Car
     {
