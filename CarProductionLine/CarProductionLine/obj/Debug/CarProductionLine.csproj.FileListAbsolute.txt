@@ -1,0 +1,7 @@
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\bin\Debug\CarProductionLine.exe.config
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\bin\Debug\CarProductionLine.exe
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\bin\Debug\CarProductionLine.pdb
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.csprojResolveAssemblyReference.cache
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.csproj.CoreCompileInputs.cache
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.exe
+c:\users\richard\source\repos\CarProductionLine\CarProductionLine\obj\Debug\CarProductionLine.pdb
